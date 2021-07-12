@@ -26,17 +26,23 @@ Perbandingan
 
 
 # Operator perbandingan digunakan untuk melakukan perbandingan suatu nilai dengan nilai lainnya, berikut daftar operator perbandingan.
-Symbol 	Fungsi 	Contoh
-== 	Membandingkan untuk mencari nilai yang sama 	$a == $b
-!= 	Membandingkan untuk mencari nilai yang tidak sama 	$a != $b
-> 	Membandingkan untuk mencari nilai yang lebih besar 	$a > $b
-< 	Membandingkan untuk mencari nilai yang lebih kecil 	$a < $b
-<= 	Membandingkan untuk mencari nilai yang lebih kecil atau sama dengan 	$a >= $b
->= 	Membandingkan untuk mencari nilai yang lebih besar atau sama dengan 	$a >= $b
-Logika
+Symbol 	Fungsi 	Contoh:
 
+== 	Membandingkan untuk mencari nilai yang sama 	$a == $b.
+
+!= 	Membandingkan untuk mencari nilai yang tidak sama 	$a != $b.
+
+> 	Membandingkan untuk mencari nilai yang lebih besar 	$a > $b.
+< 	Membandingkan untuk mencari nilai yang lebih kecil 	$a < $b.
+<= 	Membandingkan untuk mencari nilai yang lebih kecil atau sama dengan 	$a >= $b.
+>= 	Membandingkan untuk mencari nilai yang lebih besar atau sama dengan 	$a >= $b.
+
+
+# Logika
 # Operator logika digunakan untuk mencari kebenaran antara nilai.
-Symbol 	Fungsi 	Contoh
-and atau && 	Mencari nilai yang kedua-duanya bernilai benar 	$a and $b atau $a && $b
-or atau || 	Mencari nilai yang salah satunya harus bernilai salah 	$a or $b atau $a || $b
-! 	Mencari nilai yang yang tidak sama dengan yang dicari 	!$a
+Symbol 	Fungsi 	Contoh:
+and atau && 	Mencari nilai yang kedua-duanya bernilai benar	$a and $b atau $a && $b.
+
+or atau || 	Mencari nilai yang salah satunya harus bernilai salah 	$a or $b atau $a || $b.
+
+! 	Mencari nilai yang yang tidak sama dengan yang dicari 	!$a.
